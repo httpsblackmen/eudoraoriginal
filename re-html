@@ -1,0 +1,11 @@
+<section class="bg3 container-fluid"> 
+  <div class="row justify-content-center">
+    <div class="col-4 text-center">
+    <h2>Lorem ipsum dolor sit amet consectetur adipisicing.</h2> 
+    <form action=""> 
+      <input type="text"> 
+      <button>SEND E-MAIL</button>
+    </form>
+    </div>
+  </div>
+</section> 
